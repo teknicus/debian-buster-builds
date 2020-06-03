@@ -5,7 +5,7 @@ Name=Menu Shortcut
 Comment=Open LXDE Menu
 Exec=lxpanelctl menu
 Terminal=false
-Type=Application`
+Type=Application`  
 
 ------------------------
 
